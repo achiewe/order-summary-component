@@ -29,7 +29,7 @@ Users should be able to:
 
 
 ### Links
-- Solution URL: [http://127.0.0.1:5500/index.html]
+- Solution URL: [https://achiewe.github.io/order-summary-component/]
 
 ## My process
 
